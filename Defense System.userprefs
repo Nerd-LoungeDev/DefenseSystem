@@ -1,14 +1,16 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Old Scripts\PlaceBlock.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Old Scripts\Inventory.cs">
     <Files>
-      <File FileName="Assets\Old Scripts\PlaceBlock.cs" Line="49" Column="22" />
+      <File FileName="Assets\Old Scripts\Inventory.cs" Line="1" Column="1" />
+      <File FileName="Assets\Old Scripts\LockMouse.cs" Line="1" Column="1" />
+      <File FileName="Assets\Old Scripts\PlaceBlock.cs" Line="1" Column="1" />
       <File FileName="Assets\Old Scripts\MainMenuGUI.cs" Line="1" Column="1" />
       <File FileName="Assets\World\Block.cs" Line="1" Column="1" />
-      <File FileName="Assets\Old Scripts\LockMouse.cs" Line="1" Column="1" />
       <File FileName="Assets\Old Scripts\Movement.cs" Line="1" Column="1" />
       <File FileName="Assets\Old Scripts\SelectionBar.cs" Line="1" Column="1" />
-      <File FileName="Assets\Resources\Prefabs\BlockStats.cs" Line="30" Column="26" />
+      <File FileName="Assets\Resources\Prefabs\BlockStats.cs" Line="1" Column="1" />
+      <File FileName="Assets\Old Scripts\HealthBar.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
